@@ -14,7 +14,7 @@ author,rate and you can add this book to your books and can make Authentication
 
 # Images
 
-![](images/pic1.png| width=100)
+![](images/pic1.png | width=100)
 
 # Author
 
