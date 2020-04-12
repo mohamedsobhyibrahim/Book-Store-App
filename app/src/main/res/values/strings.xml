@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="image">image</string>
+    <string name="home">Home</string>
+    <string name="books">Books</string>
+    <string name="profile">Profile</string>
+    <string name="book_store">Book Store</string>
+    <string name="featured">Featured</string>
+    <string name="see_all">See all</string>
+    <string name="data_structures_and_algorithms">Data Structures and Algorithms</string>
+    <string name="_14_00_usd">14.00 $</string>
+    <string name="free">Free</string>
+    <string name="john_doe">John Doe</string>
+    <string name="open">Open</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="mobile">Mobile</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="log_out">Log out</string>
+    <string name="book_details">Book details</string>
+    <string name="book_information">Book information</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="author_information">Author information</string>
+    <string name="place_order">Place order</string>
+    <string name="my_books">My books</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
