@@ -13,7 +13,7 @@ author,rate and you can add this book to your books and can make Authentication
 - Widget Group
 
 # Images
-<img src="images/pic1.png" height="200" width="100">
+<img src="images/pic1.png" height="200" width="100"> <img src="images/pic2.png" height="200" width="100"> <img src="images/pic3.png" height="200" width="100">
 
 # Author
 
